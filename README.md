@@ -1,8 +1,8 @@
-# Monthly Sales Analysis - SQL Scripts
+# Monthly Sales Analysis Using SQL
 
 This project provides a series of SQL scripts to analyze monthly sales performance based on a dataset containing order-level sales data.
 
-## 📄 SQL Script: `Elevate Labs Task 6 SQL.sql`
+## 📄 SQL Script: `Monthly-Sales-Analysis-SQL.sql`
 
 This file contains SQL queries that can be executed in **MySQL (version < 8.0 compatible)** to perform various monthly sales analyses.
 
@@ -43,5 +43,6 @@ This file contains SQL queries that can be executed in **MySQL (version < 8.0 co
 
 ### 📂 Files
 
-- `Elevate Labs Task 6 SQL.sql` — SQL script with all queries.
+- `Monthly-Sales-Analysis-SQL.sql` — SQL script with all queries.
+- `Year & Month Data` - Output File
 - `README.md` — This file.
