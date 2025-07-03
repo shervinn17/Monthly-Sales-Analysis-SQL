@@ -44,5 +44,5 @@ This file contains SQL queries that can be executed in **MySQL (version < 8.0 co
 ### 📂 Files
 
 - `Monthly-Sales-Analysis-SQL.sql` — SQL script with all queries.
-- `Year & Month Data` - Output File
+- `Year & Month Data.png` - Output File
 - `README.md` — This file.
